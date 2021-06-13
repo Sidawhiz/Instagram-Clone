@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">no4</string>
+    <string name="home_fragment">Home_Fragment</string>
+    <string name="camera_fragment">Camera_Fragment</string>
+    <string name="message_fragment">Message_Fragment</string>
+    <string name="sidawhiz">Sidawhiz</string>
+    <string name="options">Options</string>
+    <string name="following">Following</string>
+    <string name="edit_your_profile">Edit your profile</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="log_out">Log Out</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--items list themselves one by one horizontally or vertically -->
+    <item android:id="@+id/ic_house"
+        android:title=""
+        android:icon="@drawable/ic_house">
+    </item>
+    <item android:id="@+id/ic_search"
+        android:title=""
+        android:icon="@drawable/ic_search">
+    </item>
+    <item android:id="@+id/ic_movie"
+        android:title=""
+        android:icon="@drawable/ic_movie">
+    </item>
+    <item android:id="@+id/ic_heart"
+        android:title=""
+        android:icon="@drawable/ic_heart">
+    </item>
+    <item android:id="@+id/ic_profile"
+        android:title=""
+        android:icon="@drawable/ic_profile">
+    </item>
+
+
+</menu>

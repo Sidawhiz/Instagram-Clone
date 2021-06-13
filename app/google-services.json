@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348801893974",
+    "project_id": "no4try",
+    "storage_bucket": "no4try.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348801893974:android:f274c58e6d5d1e32ed9df7",
+        "android_client_info": {
+          "package_name": "com.example.no4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348801893974-p8544s8ieipti69bo31lbbd1qjt452v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBlnGmb0qV3vUwG-bhlfua26hyUCHvzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348801893974-p8544s8ieipti69bo31lbbd1qjt452v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
